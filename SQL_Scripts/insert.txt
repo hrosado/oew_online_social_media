@@ -1,0 +1,28 @@
+INSERT INTO `NIDpM_posts`(`post_author`, `post_date`, `post_title`, `post_status`) 
+VALUES
+("3","2022-05-01","Chinese Observations on the Role and Impact of Social Media in Cognitive Warfare","draft"),
+("3","2022-05-01","China’s PLA Increasing Use of Simulators and Simulations","draft"),
+("3","2022-05-01","China's PLA Explores “Battlefield Metaverse” Training Base To Simulate Future Warfare","draft"),
+("3","2022-05-01","Russia’s BARS Reserve System Inducting Cossacks","draft"),
+("3","2022-05-01","A Russian Strategic Assessment of Russia’s 2022 Invasion of Ukraine","draft"),
+("3","2022-05-01","Russian Orthodox Church Blesses “Special Military Operation” in Ukraine","draft"),
+("3","2022-05-01","More Wonder Weapons on Russia’s Drawing Board","draft"),
+("3","2022-05-01","Kremlin Using Education Policy To Foster Approval of Its“Special Military Operation” in Ukraine","draft"),
+("3","2022-05-01","Russian Culture Ministry Proposes Possible Framework for New State Ideology","draft"),
+("3","2022-05-01","Sanctions Threaten Russia’s Arctic Energy Projects","draft"),
+("3","2022-05-01","Iran Digs into Central Syria, Filling Vacuum Left by Russia","draft"),
+("3","2022-05-01","Iran Tries To Justify Abstention in UN Vote Condemning Russian Invasion of Ukraine","draft"),
+("3","2022-05-01","Iranian Navy Joins Indian Naval Exercises","draft"),
+("3","2022-05-01","Iran's New Damavand Destroyer Set To Join Navy","draft"),
+("3","2022-05-01","Colombian Navy Discovers Clandestine Narcosub Shipyard","draft"),
+("3","2022-05-01","Mexican Criminal Organizations Consolidate Their Positions in South America","draft"),
+("3","2022-05-01","Al Shabaab Takes Advantage of Somalia’s Disjointed Election Process To Ramp Up Attacks","draft"),
+("3","2022-05-01","Separatist Conflict Imminent in Northern Mali","draft"),
+("3","2022-05-01","Sanctions Likely To Weaken Russian Arms Flow to Africa","draft"),
+("3","2022-05-01","Algeria Caught Between Neutrality and Strategic Relations with Russia","draft"),
+("3","2022-05-01","Turkey Central To Reducing Europe’s Dependence on Russian Natural Gas Russian Natural Gas","draft"),
+("3","2022-05-01","India Begins Development of a Light Tank","draft"),
+("3","2022-05-01","Philippines Pursues Helicopter Deals with Russia, Turkey, and Poland","draft"),
+("3","2022-05-01","Indonesia Upgrades Naval Submarine Fleet","draft"),
+("3","2022-05-01","Kyrgyzstan Conducts Exercise with Its New Bayraktars","draft")
+;
